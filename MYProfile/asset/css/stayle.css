@@ -194,3 +194,7 @@ a.article:hover {
         display: none;
     }
 }
+#textc{
+    text-align: center;
+    font-size: 30px;
+}
